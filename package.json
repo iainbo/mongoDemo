@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "16.1.1",
     "react-dom": "16.1.1",
-    "rest": "1.3.2",
+    "rest": "2.0.0",
     "sockjs-client": "1.1.4",
     "stompjs": "^2.3.3",
     "webpack": "3.8.1",
