@@ -5,9 +5,7 @@ import{PeopleList} from "./peopleList";
 const React = require('react');
 const ReactDOM = require('react-dom');
 const client = require('./client');
-//const when = require('when');
-//const follow = require('./follow');
-//const root = '/api';
+const root = '/api/';
 
 class App extends React.Component {
 
